@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/dulkhush/nodejs.dulkhushfayz.uz/
+    - /bin/cp -R nodejs $DEPLOYPATH
